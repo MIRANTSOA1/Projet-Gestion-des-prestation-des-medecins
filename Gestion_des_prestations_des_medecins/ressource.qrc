@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>img/icons8_shutdown.ico</file>
+        <file>img/schemaOrgLogo.jpg</file>
+        <file>img/png-clipart-computer-icons-website-icon-help-symbol-miscellaneous-blue.png</file>
+        <file>img/illustration-consultation-medicale-ligne_88138-414.jpg</file>
+        <file>img/olona.png</file>
+    </qresource>
+</RCC>
